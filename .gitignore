@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do editor de código (exemplo para o VSCode)
+.vscode/
+
+# Arquivos de logs
+*.log
+
+# Arquivos de banco de dados
+#*.sqlite3
+
+# Arquivos de configuração do IDE (exemplo para o PyCharm)
+.idea/
+
+# Arquivos do sistema (Windows)
+Desktop.ini
